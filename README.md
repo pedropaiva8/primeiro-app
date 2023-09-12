@@ -1,4 +1,4 @@
-# 🤖 Primeiro App Android 
+# 📈 Primeiro App Android 
 Desafio de Projeto do bootcamp Desenvolvimento Android com Kotlin da [DIO](https://www.dio.me/]).
 
 O objetivo do desafio é disponibilizar a tela principal em idiomas diversos, de acordo com o que está configurado no dispositivo.
