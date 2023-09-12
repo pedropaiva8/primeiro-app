@@ -1,4 +1,4 @@
-# primeiro-app
+# 🤖 Primeiro App Android 
 Desafio de Projeto do bootcamp Desenvolvimento Android com Kotlin. 
 
 O objetivo do desafio é disponibilizar a tela principal em idiomas diversos, de acordo com o que está configurado no dispositivo.
